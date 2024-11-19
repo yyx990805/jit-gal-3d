@@ -13,17 +13,17 @@ Spis treści
 6. Animacja lewitujacych ramek
 7. Możliwość budownia ramek za pomocą klawiszy `1`, `2`, `3`
 
+Demo
+==
+
+[/demo/index.html](demo)
+
 Screenshots
 ==
 
 ![Zrzut ekranu 1](./screenshot.png)
 
 ![Zrzut ekranu 2](./screenshot2.png)
-
-Demo
-==
-
-[/demo/index.html](demo)
 
 Credits
 ==
